@@ -1,5 +1,5 @@
 For any questions - Please email me at DevOps@RajeshKumar.gxyz/
-# ========================NEXUS==============================
+# ========================NEXUS============================== 
 
 <distributionManagement>
 	<repository>
@@ -33,7 +33,7 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 
 </distributionManagement>
 
-=====================SETTING.XML=================================
+=====================SETTING.XML=====================================
    <server>
 		<id>rajesh</id>
 		<username>rajesh-user</username>
